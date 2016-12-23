@@ -14,6 +14,7 @@ We are looking for engineers with know-how and experience in...
 <li>Spring</li>
 <li>React</li>
 <li>ReactNative</li>
+<li>Selenium</li>
 </ul>
 
 ... good engineering practices and a good sense of humor! :)
