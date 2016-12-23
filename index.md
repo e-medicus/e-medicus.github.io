@@ -7,10 +7,13 @@ We are the engineering team of E-Medicus, a small startup building the next awes
 ### We are looking for new team members to join us!
 
 We are looking for engineers with know-how and experience in...
-* OpenShift
-* Kerberos
-* Spring
-* React
-* ReactNative
+
+<ul>
+<li>OpenShift</li>
+<li>Kerberos</li>
+<li>Spring<li>
+<li>React</li>
+<li>ReactNative</li>
+</ul>
 
 ... and some good engineering work habits :)
