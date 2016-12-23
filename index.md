@@ -1,6 +1,6 @@
 ## Welcome to E-Medicus AG
 
-Engineering ;)
+We are the engineering team of E-Medicus, a small startup building the next awesome solution for the health care industry - empowering patient-centered medicine.
 
-https://github.com/e-medicus/
+We are looking for new team members to join us!
 
