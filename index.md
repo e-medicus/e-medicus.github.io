@@ -11,7 +11,7 @@ We are looking for engineers with know-how and experience in...
 <ul>
 <li>OpenShift</li>
 <li>Kerberos</li>
-<li>Spring<li>
+<li>Spring</li>
 <li>React</li>
 <li>ReactNative</li>
 </ul>
