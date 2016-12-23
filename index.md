@@ -18,3 +18,5 @@ We are looking for engineers with know-how and experience in...
 </ul>
 
 ... good engineering practices and a good sense of humor! :)
+
+Please contact <a href="mailto:tomi.schuetz@e-medicus.ch">me</a>, if you are interested or have questions! Thanks!
