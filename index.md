@@ -16,4 +16,4 @@ We are looking for engineers with know-how and experience in...
 <li>ReactNative</li>
 </ul>
 
-... and some good engineering work habits :)
+... good engineering practices and a good sense of humor! :)
